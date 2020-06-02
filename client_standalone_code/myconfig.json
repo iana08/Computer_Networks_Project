@@ -1,0 +1,12 @@
+{
+    "Server-Ip" : "192.168.56.103",
+    "S-Port-UDP" : 9876,
+    "D-Port-UDP" : 8765,
+    "Dest-Port-TCP-HSYN" : 3495,
+    "Dest-Port-TCP-TSYN" : 7673,
+    "Port-Num_TCP" : 4000,
+    "UDP-payload-size" : 1000,
+    "I-M-T" : 15,
+    "Num-UDP-Packets" : 6000,
+    "TTL" : 255
+}
